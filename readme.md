@@ -6,4 +6,5 @@
 3. 创建包：在Module下的src中新建Package，公司域名倒着写com.xxx.xxx（小写）
 4. 创建类：在包上新建类-JavaClass,首字母大写  
 ![img.png](img.png)
-5.    ![img_1.png](img_1.png)
+![img_1.png](img_1.png)
+5. test
