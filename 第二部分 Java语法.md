@@ -67,9 +67,27 @@ eg:byte类型的赋值给int类型
 把多个条件放在一起运算，最终返回布尔类型的值：ture/false  
 ![img_48.png](img_48.png)
 ![img_49.png](img_49.png)  
-![img_50.png](img_50.png)
+![img_50.png](img_50.png)  
+7. 三元运算符  
+格式：条件表达式？值1：值2；  
+执行流程：首先计算关系表达式的值，如果值为true,返回值1，如果为false,返回值2  
+![img_51.png](img_51.png)    
+8. 运算符优先级  
+在表达式中，哪个运算符先执行后执行是要看优先级的  
+![img_52.png](img_52.png)  
+9. API  
+Java写好的程序，咱们可以直接调用  
+API文档：Java提供的程序使用说明书  
+10. Java程序中如何实现接收用户键盘输入的数据  
+![img_53.png](img_53.png)  
+![img_54.png](img_54.png)  
 
-p34
+
+
+
+
+
+
 
 
 
