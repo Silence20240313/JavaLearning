@@ -24,17 +24,41 @@
 ![img_135.png](img_135.png)  
 ##  案例五  
 ###  数组拷贝  
-
+![img_136.png](img_136.png)  
+![img_137.png](img_137.png)  
 ##  案例六  
 ###  抢红包  
-
+![img_138.png](img_138.png)  
+![img_140.png](img_140.png)  
+![img_141.png](img_141.png)  
+![img_139.png](img_139.png)  
 ##  案例七  
 ###  找素数  
-
+![img_142.png](img_142.png)  
+![img_144.png](img_144.png)  
+方法一:  
+![img_143.png](img_143.png)  
+方法二：  
+![img_145.png](img_145.png)  
+方法三：  
+![img_146.png](img_146.png)  
 ##  案例八  
+###   打印九九乘法表     
+![img_147.png](img_147.png)  
+###  打印三角形  
+![img_148.png](img_148.png)  
+![img_149.png](img_149.png)  
+##  案例九  
 ###  模拟双色球  
 
 
 
 
-P64   40分钟
+
+
+P68个视频
+
+
+
+
+
