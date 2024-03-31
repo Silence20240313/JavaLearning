@@ -55,13 +55,22 @@
 ![img_151.png](img_151.png)  
 ![img_152.png](img_152.png)  
 2.  随机生成一组中奖号码  
+![img_153.png](img_153.png)  
 3.  判断中奖情况  
+![img_154.png](img_154.png)  
+![img_155.png](img_155.png)  
+方法：  
+![img_156.png](img_156.png)  
 
 
 
 
 
-P68个视频  27分钟
+
+
+
+
+
 
 
 
