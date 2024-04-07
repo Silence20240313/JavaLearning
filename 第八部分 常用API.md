@@ -3,18 +3,22 @@
 ### String  
 1.  String概述  
 代表字符串，可以用来创建对象封装字符串数据，并对其进行处理  
-创建对象  
+创建对象:  
 ![img_164.png](img_164.png)  
 ![img_165.png](img_165.png)  
 2.  String的常用方法  
 ![img_166.png](img_166.png)  
 ![img_167.png](img_167.png)  
 ![img_168.png](img_168.png)  
-3.  
+3.  String使用时的注意事项  
+![img_169.png](img_169.png)  
+![img_170.png](img_170.png)  
+4. 
 
-P78个视频
 
 
+
+p79
 
  
 
