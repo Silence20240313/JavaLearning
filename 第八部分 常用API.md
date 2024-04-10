@@ -30,13 +30,17 @@
    ③集合大小可变，开发中用的更多  
 常用方法：  
 ![img_177.png](img_177.png)  
-![img_178.png](img_178.png)  
+![img_179.png](img_179.png)  
 2. ArrayList应用案例  
-
+掌握从容器中找出某些数据并成功删除的技巧  
+![img_180.png](img_180.png)  
+![img_181.png](img_181.png)  
+![img_182.png](img_182.png)  
+![img_183.png](img_183.png)  
 3. ArrayList综合案例  
 
 
-p81个视频
+p82个视频
 
 
 
