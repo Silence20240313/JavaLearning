@@ -38,9 +38,9 @@
 ![img_182.png](img_182.png)  
 ![img_183.png](img_183.png)  
 3. ArrayList综合案例  
+![img_184.png](img_184.png)  
+见代码~
 
-
-p82个视频
 
 
 
