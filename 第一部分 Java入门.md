@@ -14,7 +14,7 @@
    com.itheima.hello（小写)  
    src是源代码的位置
 4. 创建类：在包上新建类-JavaClass  
-   首字母大写，全部用英文 HelloWorld
+   > 首字母大写，全部用英文 HelloWorld
 5. ①main/psvm:提示执行架子                  sout:提示打印语句(Hello World.sout--回车)  
    ②右键RUN：程序跑起来--运行结果在操控台查看  
    ③OUT目录：CLASS文件所在处  
